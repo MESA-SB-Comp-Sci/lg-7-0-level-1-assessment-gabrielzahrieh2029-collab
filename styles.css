@@ -1,5 +1,6 @@
-* {
+* img {
     box-sizing: border-box;
+
 }
 
 body {
@@ -26,7 +27,7 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 67%;
     color: #2E4057;
 }
 
@@ -36,7 +37,7 @@ p {
 }
 
 img {
-    width: 800px;
+    width: 75vw;
     display: block;
     margin-bottom: 16px;
 }
